@@ -1,6 +1,6 @@
 # basic-ML-with-tensorflow
 
-Using Tensroflow and ipynb widget, easily understanding how Machine learning works.
+Using Tensroflow and ipynb widget, easily understand how Machine learning works.
 
 __PREREQUISITES__
 1. python3
